@@ -1,0 +1,2 @@
+# Clash
+OpenClash配置
